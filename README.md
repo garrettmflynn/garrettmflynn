@@ -1,4 +1,4 @@
-<a align="center" href="http://garrettflynn.com"><img src="brain.gif"/></a>
+<a align="center" href="http://garrettflynn.com"><img src="https://github.com/GarrettMFlynn/garrettmflynn/blob/master/brain.gif"/></a>
 
 ### Hi there 👋
 
