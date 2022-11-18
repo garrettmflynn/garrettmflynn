@@ -1,7 +1,7 @@
 # Hi, I'm Garrett 👋
 <a align="center" href="http://garrettflynn.com"><img src="https://github.com/GarrettMFlynn/garrettmflynn/blob/master/brain.gif" width=100%/></a>
 
-I'm a transdisciplinary researcher, web engineer, and founding partner at [Brains@Play](https://github.com/brainsatplay): a free software collective that develops public biomedical infrastructure on the Open Web.
+I'm a transdisciplinary researcher, web engineer, and founding partner at [Brains@Play](https://github.com/brainsatplay): a worker-owned development studio that designs public biomedical infrastructure on the Open Web.
 
 In May 2022, I graduated with a BS in Computational Neuroscience and an [MA in Media Arts, Games, and Health](https://cmbhc.usc.edu/?page_id=1990) from the University of Southern California.
 
