@@ -9,4 +9,4 @@ Beyond programming, I enjoy rock climbing and playing with my cats Polymer and J
 To keep up with my ongoing research activities, check out my [Google Scholar](https://scholar.google.com/citations?user=S5Gk4ywAAAAJ&hl=en&oi=ao) page.
 
 ## Collaboration
-Have a project idea? Schedule a time to chat @ https://calendly.com/garrettmflynn
+Have a project idea? Schedule a time to chat on my [Calendly](https://calendly.com/garrettmflynn).
