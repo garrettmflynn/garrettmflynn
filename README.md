@@ -1,4 +1,4 @@
-# Hello! Garrett Here 👋
+# Hello! It's Garrett 👋
 I'm an independent software engineer and trandisciplinary research specialist currently based in Los Angeles. Nearly all of my work is open source and publicly available here on GitHub.
 
 Over the last few years, I've designed and developed user-friendly applications with [Catalyst Neuro](https://catalystneuro.com), [Enosis](https://enosis.io), the [Human Technology Interaction Lab](https://htilua.org/), and several others.
