@@ -1,5 +1,5 @@
 # Garrett Flynn
-Lead engineer at [Universal Brain](https://universal-brain.com) in Los Angeles. I build open, standards-based software for brain data.
+Lead engineer at [Universal Brain](https://universal-brain.com), living in Los Angeles. I build open, standards-based software for brain data.
 
 ## Open source
 - [Commoners](https://github.com/neuralinterfaces/commoners): one web app, shipped to desktop and mobile
