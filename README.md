@@ -1,12 +1,14 @@
-# Hello! It's Garrett 👋
-I'm the lead engineer at [Universal Brain](https://universal-brain.com) and currently based in Los Angeles.
+# Garrett Flynn
+Lead engineer at [Universal Brain](https://universal-brain.com), based in Los Angeles. I build software for brain data: open data standards, browser-based acquisition, and apps that run anywhere the web does.
 
-In my spare time, I design and develop user-friendly neuroscience applications. Previous clients include [Catalyst Neuro](https://catalystneuro.com), [Enosis](https://enosis.io), and the [Human Technology Interaction Lab](https://htilua.org/). Nearly all of this work is open-source and publicly available here on GitHub.
+## Open source
+- [WebNWB](https://github.com/garrettmflynn/webnwb) · [dandi-js](https://github.com/garrettmflynn/dandi-js) · [hdf5-io](https://github.com/garrettmflynn/hdf5-io): NWB and DANDI from JavaScript
+- [NWB GUIDE](https://github.com/NeurodataWithoutBorders/nwb-guide): desktop app for converting neurophysiology data to NWB
+- [Commoners](https://github.com/neuralinterfaces/commoners): build once, ship to web, desktop, and mobile
+- [datastreams-api](https://github.com/garrettmflynn/datastreams-api): a unified data-acquisition API for the browser
 
-After a full day of programming, I enjoy rock climbing and playing with my cats Polymer, Jorts, Brian, and Soup.
+Previously built tools with [CatalystNeuro](https://catalystneuro.com), [Enosis](https://enosis.io), and the [Human Technology Interaction Lab](https://htilua.org/).
 
-## Research
-To keep up with my ongoing research activities, check out my [Google Scholar](https://scholar.google.com/citations?user=S5Gk4ywAAAAJ&hl=en&oi=ao) page.
+Off the keyboard: climbing, running, and four cats (Polymer, Jorts, Brian, Soup).
 
-## Collaboration
-Have a project idea? Schedule a time to chat on my [Calendly](https://calendly.com/garrettmflynn).
+[Google Scholar](https://scholar.google.com/citations?user=S5Gk4ywAAAAJ&hl=en&oi=ao) · [garrettflynn.com](http://garrettflynn.com)
